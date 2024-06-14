@@ -1,6 +1,4 @@
-<div>
-<img align="right" alt="Edu-GFT" height="30" width="180" src="http://www3.facens.br/maratona/img/GFT.jpg">
- 
+<div> 
 ### 👨‍💻☁️
  </div>
 
